@@ -1,0 +1,46 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}  
+
+header{ 
+    margin-right: 1350.71px;
+    margin-top: 60px;
+} 
+
+body { 
+    font-size: 32px;
+    background-color: black; 
+    color: aliceblue;
+    font-family: "Poppins"; 
+    text-align: center;
+
+} 
+
+h1{ 
+    font-size: 85.33px;
+    color: aliceblue ; 
+    font-family: "Poppins";  
+    margin: 0 auto;
+    
+} 
+
+h1 span{ 
+    color: blueviolet;
+} 
+
+a {
+    background-color: #9747FF; 
+    color: #FFFFFF; 
+    font-family: "Poppins"; 
+    font-size: 24px; 
+    width: 340px;
+    height: 66px; 
+    display: block; 
+    text-align: center; 
+    line-height: 66px;
+    border-radius: 36px; 
+    margin: 40px auto;
+}
